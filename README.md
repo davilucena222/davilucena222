@@ -9,19 +9,19 @@ ________________________________________________________________________________
 
 ### How to find me:
 <a href="https://www.linkedin.com/in/davi-luiz-a54645195/" target="_blank">
-<img align="center" alt="davi-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+  <img align="center" alt="davi-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100007931407200" target="_blank">
-<img align="center" alt="davi-facebook" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
+  <img align="center" alt="davi-facebook" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
 </a>
 
 <a href="https://www.instagram.com/daviluiz11/" target="_blank">
-<img align="center" alt="davi-instagram" height="60" width="80" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.svg" style="max-width:100%;">
+  <img align="center" alt="davi-instagram" height="60" width="80" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.svg" style="max-width:100%;">
 </a>
 
 <a href="https://twitter.com/daviluiz104" target="_blank">
-<img align="center" alt="davi-twitter" height="60" width="80" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.svg" style="max-width:100%;">
+  <img align="center" alt="davi-twitter" height="60" width="80" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.svg" style="max-width:100%;">
 </a>
 
 _______________________________________________________________________________________________________________________________________________________
