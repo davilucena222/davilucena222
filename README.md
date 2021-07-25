@@ -8,34 +8,34 @@
 _______________________________________________________________________________________________________________________________________________________
 
 ### How to find me:
-<a href="https://www.linkedin.com/in/davi-luiz-a54645195/" target=_blank>
+<a href="https://www.linkedin.com/in/davi-luiz-a54645195/" target="_blank">
 <img align="center" alt="davi-linkedin" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100007931407200" target=_blank>
+<a href="https://www.facebook.com/profile.php?id=100007931407200" target="_blank">
 <img align="center" alt="davi-facebook" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" style="max-width:100%;">
 </a>
 
-<a href="https://www.instagram.com/daviluiz11/" target=_blank>
+<a href="https://www.instagram.com/daviluiz11/" target="_blank">
 <img align="center" alt="davi-instagram" height="60" width="80" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.svg" style="max-width:100%;">
 </a>
 
-<a href="https://twitter.com/daviluiz104" target=_blank>
+<a href="https://twitter.com/daviluiz104" target="_blank">
 <img align="center" alt="davi-twitter" height="60" width="80" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.svg" style="max-width:100%;">
 </a>
 
 _______________________________________________________________________________________________________________________________________________________
 
 ### Skills:
-<a href="https://www.python.org/" target=_blank>
+<a href="https://www.python.org/" target="_blank">
   <img align="center" alt="python" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.svg"   style="max-width:100%;"></img>
 </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target=_blank>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img align="center" alt="javascript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
 </a>
 
-<a href="https://www.java.com/pt-BR/" target=_blank>
+<a href="https://www.java.com/pt-BR/" target="_blank">
   <img align="center" alt="java" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.svg" style="max-width:100%;"></img>
 </a>
 
@@ -43,23 +43,23 @@ ________________________________________________________________________________
   <img align="center" alt="c" height="60" width="80" src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699250-icon-23-file-c-512.svg" style="max-width:100%;"></img>
 </a>  
 
-<a href="https://pt-br.reactjs.org/" target=_blank>
+<a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" alt="react js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;"></img>
 </a>  
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target=_blank>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
   <img align="center" alt="html" height="60" width="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" style="max-width:100%;"></img>
 </a>
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target=_blank>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
   <img align="center" alt="css" height="60" width="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.svg" style="max-width:100%;"></img>
 </a>
 
-<a href="https://nodejs.org/en/about/" target=_blank>
+<a href="https://nodejs.org/en/about/" target="_blank">
   <img align="center" alt="node js" height="60" width="80" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.svg" style="max-width:100%;"></img>
 </a>  
 
-<a href="https://www.djangoproject.com/" target=_blank>
+<a href="https://www.djangoproject.com/" target="_blank">
   <img align="center" alt="django" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="max-width:100%;"></img>
 </a>
 
