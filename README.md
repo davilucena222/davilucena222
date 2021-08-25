@@ -1,7 +1,7 @@
 ## Hi, I'm Davi Luiz👋
 •  :earth_americas: Brazil,  João Pessoa - PB
 
-• :computer: Undergraduate student of Computer Science - Federal University of Paraíba
+• :computer: Student of Computer Science - Federal University of Paraíba
 
 • :books: I'm learning at the moment: *Web Development, JavaScript and React JS*
 
