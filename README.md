@@ -21,14 +21,14 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://twitter.com/daviluiz104" target="_blank">
-  <img align="center" alt="davi-twitter" height="60" width="80" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.svg" style="max-width:100%;">
+  <img align="center" alt="davi-twitter" height="60" width="80" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-256.png" style="max-width:100%;">
 </a>
 
 _______________________________________________________________________________________________________________________________________________________
 
 ### Skills:
 <a href="https://www.python.org/" target="_blank">
-  <img align="center" alt="python" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.svg"   style="max-width:100%;"></img>
+  <img align="center" alt="python" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"   style="max-width:100%;"></img>
 </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
@@ -36,11 +36,11 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://www.java.com/pt-BR/" target="_blank">
-  <img align="center" alt="java" height="60" width="80" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291669.png?token=exp=1641059172~hmac=6365114994baa92764cd7ffe766f1b7b" style="max-width:100%;"></img>
+  <img align="center" alt="java" height="60" width="80" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-256.png" style="max-width:100%;"></img>
 </a>
 
 <a href="#">
-  <img align="center" alt="c" height="60" width="80" src="https://cdn-icons.flaticon.com/png/512/3541/premium/3541190.png?token=exp=1641059246~hmac=b8bf442fef7bf877b2381dc2a13b6e30" style="max-width:100%;"></img>
+  <img align="center" alt="c" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-256.png" style="max-width:100%;"></img>
 </a>  
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
