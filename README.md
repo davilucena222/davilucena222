@@ -27,21 +27,10 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________
 
 ### Skills:
-<a href="https://www.python.org/" target="_blank">
-  <img align="center" alt="python" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"   style="max-width:100%;"></img>
-</a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img align="center" alt="javascript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>
 </a>
-
-<a href="https://www.java.com/pt-BR/" target="_blank">
-  <img align="center" alt="java" height="60" width="80" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-256.png" style="max-width:100%;"></img>
-</a>
-
-<a href="#">
-  <img align="center" alt="c" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-256.png" style="max-width:100%;"></img>
-</a>  
 
 <a href="https://pt-br.reactjs.org/" target="_blank">
   <img align="center" alt="react js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width:100%;"></img>
@@ -56,12 +45,28 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://nodejs.org/en/about/" target="_blank">
-  <img align="center" alt="node js" height="60" width="80" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="max-width:100%;"></img>
+  <img align="center" alt="node js" height="60" width="80" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-256.png" style="max-width:100%;"></img>
 </a>  
 
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img align="center" alt="django" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="max-width:100%;"></img>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="center" alt="TypeScript" height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" style="max-width:100%;"></img>
+</a>  
+
+<a href="https://nextjs.org/" target="_blank">
+  <img align="center" alt="Next js" height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" style="max-width:100%;"></img>
+</a>  
+
+<a href="https://firebase.google.com/products/realtime-database/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0008679&utm_content=text-ad-none-any-DEV_c-CRE_429626774316-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Compute_Firebase-KWID_43700066431125567-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gclid=Cj0KCQiA0eOPBhCGARIsAFIwTs5_Oxt29QMeJpM0lTX0W5flLyahd_x58qdgYSeoHYKE92sM3j8Y5GMaAuP0EALw_wcB&gclsrc=aw.ds" target="_blank">
+  <img align="center" alt="Firebase" height="60" width="80" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-256.png" style="max-width:100%;"></img>
 </a>
+
+<a href="https://sass-lang.com/" target="_blank">
+  <img align="center" alt="Scss Sass" height="60" width="80" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" style="max-width:100%;"></img>
+</a> 
+
+<a href="https://www.sqlite.org/index.html" target="_blank">
+  <img align="center" alt="SQLite" height="60" width="80" src="https://www.sqlite.org/images/sqlite370_banner.gif" style="max-width:100%;"></img>
+</a> 
 
 _______________________________________________________________________________________________________________________________________________________
 
