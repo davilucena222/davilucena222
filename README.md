@@ -17,7 +17,7 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://www.instagram.com/daviluiz11/" target="_blank">
-  <img align="center" alt="davi-instagram" height="60" width="80" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.svg" style="max-width:100%;">
+  <img align="center" alt="davi-instagram" height="60" width="80" src="https://gogeticons.com/frontend/web/icons/data/1/6/3/8/8/1/camera_instagram_instagram%20logo_icon_512.png" style="max-width:100%;">
 </a>
 
 <a href="https://twitter.com/daviluiz104" target="_blank">
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
-  <img align="center" alt="css" height="60" width="80" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.svg" style="max-width:100%;"></img>
+  <img align="center" alt="css" height="60" width="80" src="https://gogeticons.com/frontend/web/icons/data/1/1/8/6/6/css_512.png" style="max-width:100%;"></img>
 </a>
 
 <a href="https://nodejs.org/en/about/" target="_blank">
