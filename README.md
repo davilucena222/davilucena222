@@ -3,7 +3,7 @@
 
 • :computer: Student of Computer Science - Federal University of Paraíba
 
-• :books: I'm studying a practicing at the moment: *Web Development, JavaScript and React JS*
+• :books: I'm studying and practicing at the moment: *Web Development, JavaScript and React JS*
 
 _______________________________________________________________________________________________________________________________________________________
 
