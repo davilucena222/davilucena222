@@ -67,10 +67,3 @@ ________________________________________________________________________________
 <a href="https://www.sqlite.org/index.html" target="_blank">
   <img align="center" alt="SQLite" height="60" width="80" src="https://www.sqlite.org/images/sqlite370_banner.gif" style="max-width:100%;"></img>
 </a> 
-
-_______________________________________________________________________________________________________________________________________________________
-
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davilucena222&show_icons=true&count_private=true&theme=dracula)
-_____________________________________________________________________________________________________________________________________________________
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davilucena222)](https://github.com/davilucena222/github-readme-stats)
