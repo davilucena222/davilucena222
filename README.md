@@ -1,9 +1,9 @@
 ## Hi, I'm Davi Luiz
 • Brazil,  João Pessoa - PB
 
-• Computer Science Student - Federal University of Paraíba
+• Computer Science - Universidade Federal da Paraíba
 
-• Front-End Web Developer
+• Front-End Developer
 
 _______________________________________________________________________________________________________________________________________________________
 
