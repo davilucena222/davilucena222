@@ -3,7 +3,7 @@
 
 • Computer Science - Universidade Federal da Paraíba
 
-• Front-End Developer
+• Full-Stack Developer
 
 _______________________________________________________________________________________________________________________________________________________
 
