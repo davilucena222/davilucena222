@@ -3,7 +3,7 @@
 
 • Computer Science - Universidade Federal da Paraíba
 
-• Full-Stack Developer
+• Software Engineer
 
 _______________________________________________________________________________________________________________________________________________________
 
